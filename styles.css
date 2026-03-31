@@ -7,7 +7,7 @@
 
 body {
   background: #d8d8d8;
-  color: #000000;
+  color: #ffffff;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -87,7 +87,7 @@ nav a:hover {
 }
 
 .card {
-  background: #1e293b;
+  background: #000000;
   border-radius: 10px;
   overflow: hidden;
 }
@@ -106,7 +106,7 @@ nav a:hover {
 
 .card-content p {
   font-size: 14px;
-  color: #cbd5f5;
+  color: #ffffff;
 }
 
 /* SKILLS */
